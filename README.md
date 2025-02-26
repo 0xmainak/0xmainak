@@ -110,7 +110,7 @@
 
 <div align="center">
     <div align="center">
-        <img src="https://streak-stats.demolab.com?user=0xmainak&theme=radical&hide_border=true" alt="GitHub Streak" style="margin: 20px 0; border: 2px solid #f8f9fa; border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.7); padding: 5px; background: linear-gradient(145deg, #2c2c2c, #3a3a3a);" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xmainak&theme=radical&hide_border=true" alt="GitHub Streak" style="margin: 20px 0; border: 2px solid #f8f9fa; border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.7); padding: 5px; background: linear-gradient(145deg, #2c2c2c, #3a3a3a);" />
     </div>
 
 ## 🔝 Top Contributions
